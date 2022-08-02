@@ -13,7 +13,7 @@ function HandleEvent() {
         <>
             <input 
                 value={value}
-                placeHolder="This placeholder is whack"
+                placeholder="Check console for output onChange"
                 onChange={eventHandler}
             />
         </>
